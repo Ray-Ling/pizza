@@ -1,6 +1,6 @@
 # Pizza Detector
-This program will look at a picture of a pizza and recognizre the stage of cooking it is in. the stages include: "perfect", "slightyly chared", and "burnt". 
-It uses imagenet to detect the amount of burnt areas and determine a stage. 
+This program will look at a picture of a pizza and recognize the stage of cooking it is in. The various stages include: "perfect", "slightyly chared", and "burnt". 
+It uses imagenet to detect the amount of burnt areas and determine the specific stage of the pizza. 
 
 # To run the program
 1. Open VScode and ssh to your nano IP address
